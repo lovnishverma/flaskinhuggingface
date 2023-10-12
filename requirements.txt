@@ -3,4 +3,5 @@ flask-cors
 gunicorn
 Jinja2
 pandas
+numpy
 scikit-learn
